@@ -1,0 +1,6 @@
+{
+  "name": "DisFit",
+  "description": "DisFit - Precision Photo-Based Facial Measurement & Spectacle Fitting System for Optometry & Eyewear Dispensing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
